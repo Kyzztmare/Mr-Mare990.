@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+263719519229'] // owner number
+global.ownername = ".〽️"‏𓆩 ⃟✞M𝚁  M𝙰R𝚁𝙴✞⃟𓆪" 🕊️ " // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.socialm = "GitHub:.〽️"‏𓆩 ⃟✞M𝚁  M𝙰𝚁𝙴✞⃟𓆪" 🕊️ " // github or insta name
+global.location = "USA, Mizoram, Aizawl" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+263719519229']
+global.ownertag = '+263719519229' //your tag number
+global.botname = ' .〽️"‏𓆩 ⃟✞M𝚁  M𝙰𝚁𝙴✞⃟𓆪" 🕊️ - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = ".〽️"‏𓆩 ⃟✞M𝚁  M𝙰𝚁𝙴✞⃟𓆪" 🕊️ " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+263719519229'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -167,7 +167,7 @@ global.rep = { // All Replies = 145
     K3: '😉🫶හායි😂',
     K4: '🥴හූයි😊',
     K5: '😂හේයි, හව් ආ යූ🥴✌️',
-    K6: '😁Hey there💝 I am WhatsApp Bot😏',
+    K6: '😁Hey there💝 I am .〽️"‏𓆩 ⃟✞M𝚁  M𝙰𝚁𝙴✞⃟𓆪" 🕊️-Bot 😏',
     K7: '❣️ඇයි හලෝ😌',
     K8: '🙃මොකෝ හලෝ🥲',
     K9: '😒මොකෝ?',
